@@ -1,6 +1,6 @@
 # Password Validator
 
-
+A password validator built with react and react hooks with a checking by letters, numbers and symbols for what password you want to use.
 
 # Screenshot 
 
