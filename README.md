@@ -4,6 +4,7 @@ A password validator built with react and react hooks with a checking by letters
 
 # Screenshot 
 
+![Screenshot 2024-07-30 134913](https://github.com/user-attachments/assets/b882e0b8-2011-4da9-89b9-62a6f436ee5f)
 
 # Built With 
  - ReactJS;
